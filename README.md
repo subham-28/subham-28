@@ -6,35 +6,23 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/subham_mohanty_05) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohanty_subham.05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/subham-mohanty-3a1805316) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@subh_am05) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subhamomm836@gmail.com) 
 
 # 💻 Tech Stack:
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="LaTeX" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
-<img align="left" alt="Markdown" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="Keras" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/keras/D00000" />
+<img align="left" alt="scikit-learn" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/scikitlearn/F7931E" />
 <img align="left" alt="Google Cloud" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Oracle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
-<img align="left" alt="Render" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/render/000000" />
-<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
-<img align="left" alt="Vercel" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/vercel/000000" />
 <img align="left" alt="FastAPI" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/fastapi/009688" />
-<img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
 <img align="left" alt="Streamlit" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/streamlit/FF4B4B" />
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Canva" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/canva/00C4CC" />
-<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<img align="left" alt="Keras" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/keras/D00000" />
-<img align="left" alt="Matplotlib" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/matplotlib/11557C" />
-<img align="left" alt="mlflow" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/mlflow/0194E2" />
 <img align="left" alt="NumPy" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/numpy/013243" />
-<img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/pandas/150458" />
+<img align="left" alt="mlflow" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/mlflow/0194E2" />
 <img align="left" alt="Plotly" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/plotly/3F4F75" />
-<img align="left" alt="scikit-learn" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/scikitlearn/F7931E" />
 <img align="left" alt="SciPy" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/scipy/8CAAE6" />
 <img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub Actions" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/githubactions/2088FF" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <br />
 
