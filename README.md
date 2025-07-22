@@ -18,13 +18,11 @@
 <img align="left" alt="FastAPI" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/fastapi/009688" />
 <img align="left" alt="Streamlit" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/streamlit/FF4B4B" />
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="Canva" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/canva/00C4CC" />
 <img align="left" alt="NumPy" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/numpy/013243" />
 <img align="left" alt="mlflow" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/mlflow/0194E2" />
 <img align="left" alt="Plotly" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/plotly/3F4F75" />
 <img align="left" alt="SciPy" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/scipy/8CAAE6" />
 <img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-<img align="left" alt="GitHub Actions" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/githubactions/2088FF" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <br />
 
