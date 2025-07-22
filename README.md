@@ -1,7 +1,15 @@
 # 👋 Hi, I'm Subham!
 ## 💫 About Me:
--👩🏻‍🎓 Studying [Computer Science](https://www.iiit-bh.ac.in/) at the International Institute of Information Technology, Bhubaneswar, Odisha<br>- 🔭 I’m currently working on **a power outage duration predictor using machine learning**<br>- 🌱 I’m currently learning **Convolutional Neural Networks (CNNs) from deep learning**<br>- 👯 I’m looking to collaborate on **ML-powered forecasting tools**, **API integrations**, and **data-driven web apps**<br>- 🤔 I’m looking for help with **model deployment** and **handling large time-series datasets**<br>- 💬 Ask me about **FastAPI**, **OCR**, **MongoDB**, **supervised & unsupervised ML algorithms**, **Google Cloud**, or **time-series forecasting**
-<br>- ⚡ Fun fact: **I love turning raw data into actionable insights — and find debugging almost therapeutic!**<br>
+- 👩🏻‍🎓 Studying [Computer Science](https://www.iiit-bh.ac.in/) at the International Institute of Information Technology, Bhubaneswar, Odisha  
+- 🔭 I’m currently working on **a power outage duration predictor using machine learning**  
+- 🌱 I’m currently learning **Convolutional Neural Networks (CNNs) from deep learning**  
+- 👯 I’m looking to collaborate on **ML-powered forecasting tools**, **API integrations**, and **data-driven web apps**  
+- 🤔 I’m looking for help with **model deployment** and **handling large time-series datasets**  
+- 💬 Ask me about **FastAPI**, **OCR**, **MongoDB**, **supervised & unsupervised ML algorithms**, **Google Cloud**, or **time-series forecasting**  
+- 🌐 Check out my portfolio: [My Portfolio](https://strategizeand-plan.my.canva.site/subham-mohanty-portfolio-website)  
+- ⚡ Fun fact: **I love turning raw data into actionable insights — and find debugging almost therapeutic!**  
+
+
 
 
 ## 🌐 Socials:
