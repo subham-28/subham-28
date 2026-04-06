@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on **ML-powered forecasting tools**, **API integrations**, and **data-driven web apps**  
 - 🤔 I’m looking for help with **model deployment** and **handling large time-series datasets**  
 - 💬 Ask me about **supervised & unsupervised ML algorithms**,**DL algorithms like ANN, CNN and RNN**,**FastAPI**, **OCR**, **MongoDB**, **Google Cloud**, or **time-series forecasting**  
-- 🌐 Check out my portfolio: [My Portfolio](https://strategizeand-plan.my.canva.site/subham-mohanty-portfolio-website)  
+- 🌐 Check out my portfolio: [My Portfolio](https://subham-28.github.io/portfolio/)  
 - ⚡ Fun fact: **I love turning raw data into actionable insights — and find debugging almost therapeutic!**  
 
 
